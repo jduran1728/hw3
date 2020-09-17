@@ -1,0 +1,26 @@
+.star{background-image: url(https://ak.picdn.net/shutterstock/videos/16595440/thumb/1.jpg);
+color-adjust: relative;}
+
+.nav{ text-align: center;
+color: bisque;
+background-color: chartreuse;}
+ .yo{color: coral;
+font-style: italic;
+background-color: darkgreen;
+text-align: center;}
+.button{
+    lighting-color: springgreen;
+    padding: 1%;
+        margin-left: 400px;
+    font-size: medium;
+    box-shadow: seagreen;
+    color: darkred;
+background-color: rgb(109, 217, 221);
+text-align: center;
+text-align: center;}
+
+#yes{text-align: center;
+color:royalblue;
+background-color: salmon;
+font-size: 80px;
+margin:100px;}
